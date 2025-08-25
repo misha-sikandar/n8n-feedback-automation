@@ -19,5 +19,27 @@ This project automates the process of handling feedback forms using **N8N**:
 Note: This workflow JSON does not include API credentials.  
 Please add your own Airtable and Slack credentials after importing.
 
+🎯 Benefits of this Workflow
 
+This workflow saves time and reduces errors by automating feedback handling.
+
+Complaints, Compliments, and Feature Requests are automatically stored in separate Airtable tables.
+
+Instant Slack notifications keep the team updated in real-time.
+
+Data is well organized, making reporting and analysis much easier.
+
+The system scales automatically as feedback volume grows.
+
+👥 Who Can Use This
+
+Customer Support Teams – to manage complaints efficiently.
+
+Product Teams – to collect and track feature requests for future planning.
+
+HR/Employee Feedback – to handle employee suggestions, compliments, and issues.
+
+Educational Institutes – to record student feedback in an organized way.
+
+Small Businesses/Startups – to save time and handle feedback without manual effort.
 ---
