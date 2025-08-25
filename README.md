@@ -16,4 +16,8 @@ This project automates the process of handling feedback forms using **N8N**:
 2. Add your Airtable and Slack credentials.
 3. Run the workflow and start receiving automated feedback routing!
 
+Note: This workflow JSON does not include API credentials.  
+Please add your own Airtable and Slack credentials after importing.
+
+
 ---
